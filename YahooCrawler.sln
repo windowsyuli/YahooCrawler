@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YahooCrawler", "YahooCrawler\YahooCrawler.csproj", "{38F4625E-4FDC-42FC-A261-C8D1BE32F820}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleYahoo", "ConsoleYahoo\ConsoleYahoo.csproj", "{13B10815-EBBF-417A-A962-D7491BC1BEA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsBrowser", "FormsBrowser\FormsBrowser.csproj", "{89288DBA-36EF-4F82-ADF8-80C28450AB0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38F4625E-4FDC-42FC-A261-C8D1BE32F820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F4625E-4FDC-42FC-A261-C8D1BE32F820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F4625E-4FDC-42FC-A261-C8D1BE32F820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F4625E-4FDC-42FC-A261-C8D1BE32F820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13B10815-EBBF-417A-A962-D7491BC1BEA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B10815-EBBF-417A-A962-D7491BC1BEA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B10815-EBBF-417A-A962-D7491BC1BEA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B10815-EBBF-417A-A962-D7491BC1BEA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89288DBA-36EF-4F82-ADF8-80C28450AB0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89288DBA-36EF-4F82-ADF8-80C28450AB0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89288DBA-36EF-4F82-ADF8-80C28450AB0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89288DBA-36EF-4F82-ADF8-80C28450AB0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
